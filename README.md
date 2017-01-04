@@ -8,6 +8,8 @@
 # For use with Laravel Api
 https://github.com/scottgrayson/laravel-spa-api
 
+set the url of the api in `plugins/axios.js`
+
 ## Build Setup
 
 ``` bash
