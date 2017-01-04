@@ -1,6 +1,11 @@
-# nuxt-spa-client
+# vue-spa-client
+- axios
+- nuxt includes
+  - vue-router
+  - vuex
+  - server side rendering
 
-> Nuxt Spa for use with Laravel Spa Api
+# For use with Laravel Api
 https://github.com/scottgrayson/laravel-spa-api
 
 ## Build Setup
