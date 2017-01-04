@@ -1,6 +1,7 @@
 # nuxt-spa-client
 
-> Nuxt Spa for use with Laravel Api
+> Nuxt Spa for use with Laravel Spa Api
+https://github.com/scottgrayson/laravel-spa-api
 
 ## Build Setup
 
